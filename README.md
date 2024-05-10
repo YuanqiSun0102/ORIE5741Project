@@ -1,4 +1,4 @@
 # ORIE5741Project
-Project name: Prediction of Online Shoppers' Purchasing Intention 
-Group member: Lisa Lyu (zl879), Yuanqi Sun(ys2274), Wenxuan Zhang (wz443)
+## Project name: Prediction of Online Shoppers' Purchasing Intention 
+## Group member: Lisa Lyu (zl879), Yuanqi Sun(ys2274), Wenxuan Zhang (wz443)
 Project Introduction: Due to the rapid expansion of online shopping format, the important role of marketing analysis teams to accurately perform data analysis and data-driven decisions is emphasized. In this project, we used a dataset from UCI Machine Learning Repository to research on the behavoir of each user, thus to decide if a user would finalize his/her transaction. By predicting the classification problem precisely, we can provide a personal recommendation to each user and time the promotion just right. We explored the data, did some pre-analysis on the data, researched on 3 methods for dealing with imbalanced data, chose the best method for dealing with the data, and implemented 4 models (SVM, Logistic Regression, Random Forest, Gradient Boosting) to evaluate the final results.
